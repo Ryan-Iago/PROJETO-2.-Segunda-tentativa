@@ -36,8 +36,7 @@
                         <h5 class="card-title"> Projeto JavaScript: Sugerindo filmes</h5>
                         <p class="card-text">Meu projeto feito para indicar um filme seguindo a sua idade e seus gostos, detalhado efetivo e construido no modelo JavaScript
                         </p>
-                        <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal1">Veja
-                            o projeto</button>
+                        <button type="button"</button>
                     </div>
                 </div>
             </div>
