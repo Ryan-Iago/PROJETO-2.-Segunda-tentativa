@@ -32,7 +32,6 @@
             <!-- Projeto 1 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
                     <div class="card-body">
                         <h5 class="card-title"> Projeto JavaScript: Sugerindo filmes</h5>
                         <p class="card-text">Meu projeto feito para indicar um filme seguindo a sua idade e seus gostos, detalhado efetivo e construido no modelo JavaScript
