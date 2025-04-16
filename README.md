@@ -45,7 +45,7 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Projeto Scratch: Pong/h5>
+                        <h5 class="card-title">Projeto Scratch: Pong </h5>
                         <p class="card-text">Projeto feito efetivamente pelo Scratch, seguindo como referencia o jogo da raquete ou pong. Onde o jogador controla uma "Raquete" e tem que desviar uma bola que vai rebatendo na raquete inimiga ate ue toque na parede pontuando</p>
                         <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal2">Veja
                             o projeto</button>
