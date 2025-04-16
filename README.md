@@ -62,7 +62,7 @@
         <div>
             <i class="bi bi-github"></i>
             <a href="https://github.com/Ryan-Iago">GitHub</a>
-            <a href="ryan.andre.prado@escola.pr.gov.br" </a>
+            <a href="ryan.andre.prado@escola.pr.gov.br">Meu Email</a>
         <div>
 </body>
 
