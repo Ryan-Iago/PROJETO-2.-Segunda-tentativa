@@ -64,8 +64,6 @@
             <i class="bi bi-github"></i>
             <a href="https://github.com/Ryan-Iago">GitHub</a>
         <div>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
