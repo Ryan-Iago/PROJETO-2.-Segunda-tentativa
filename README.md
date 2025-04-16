@@ -20,7 +20,7 @@
         <p>Um estudante esforçado que sabe e estuda o básico da computação, ainda sendo um goleiro em atividade, um dos bons. Essas sao as minhas habilidades</p>
         <p>Minhas habilidades</p>
         <div>
-            <p class="badge bg-secondary">Básico daa Programação</p>
+            <p class="badge bg-secondary">Básico da Programação</p>
             <p class="badge bg-secondary">Goleiro de Futebol</p>
             <p class="badge bg-secondary">JavaScript</p>
             <p class="badge bg-secondary">Scratch</p>
