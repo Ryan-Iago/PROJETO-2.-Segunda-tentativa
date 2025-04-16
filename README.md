@@ -44,7 +44,6 @@
             <!-- Projeto 2 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
                     <div class="card-body">
                         <h5 class="card-title">Projeto Scratch: Pong/h5>
                         <p class="card-text">Projeto feito efetivamente pelo Scratch, seguindo como referencia o jogo da raquete ou pong. Onde o jogador controla uma "Raquete" e tem que desviar uma bola que vai rebatendo na raquete inimiga ate ue toque na parede pontuando</p>
