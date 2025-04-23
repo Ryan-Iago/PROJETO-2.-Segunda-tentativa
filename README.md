@@ -13,7 +13,7 @@
 
 <body>
     <header class="container text-center">
-        <img src="avatar.png" alt="avatar do Ryan" class="rounded-circle" width="150" height="150"
+        <img src="avatar.png" alt="" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Ola! Me chamo Ryan_</p>
         <h1>Atualmente estudante do novo ensino medio</h1>
