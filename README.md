@@ -13,7 +13,7 @@
 
 <body>
     <header class="container text-center">
-        <p class="lead">Ola! Me chamo Ryan_</p>
+        <p class="lead">Me chamo Ryan_</p>
         <h1>Atualmente estudante do novo ensino medio</h1>
         <p>Um estudante esforçado que sabe e estuda o básico da computação, ainda sendo um goleiro em atividade, um dos bons. Essas sao as minhas habilidades</p>
         <p>Minhas habilidades</p>
