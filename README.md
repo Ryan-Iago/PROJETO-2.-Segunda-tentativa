@@ -61,7 +61,7 @@
             <i class="bi bi-github"></i>
             <a href="https://github.com/Ryan-Iago">GitHub</a>
             <footer>
-    <p>Contato: <a href="mailto:seuemail@exemplo.com">seuemail@exemplo.com</a></p>
+    <p>Contato: <a href="mailto: ryan.andre.prado@escola.pr.gov.br">ryan.andre.prado@escola.pr.gov.br</a></p>
 </footer>
         <div>
 </body>
