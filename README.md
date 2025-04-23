@@ -14,7 +14,7 @@
 <body>
     <header class="container text-center">
         <img src="imagens" 
-            curl -o assets/images/sua-imagem-de-perfil.png https://avatars.githubusercontent.com/Ryan-Iago 
+            curl -o assets=/images/sua-imagem-de-perfil.png https://avatars.githubusercontent.com/Ryan-Iago
         class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Ola! Me chamo Ryan_</p>
