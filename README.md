@@ -60,6 +60,9 @@
         <div>
             <i class="bi bi-github"></i>
             <a href="https://github.com/Ryan-Iago">GitHub</a>
+            <footer>
+    <p>Contato: <a href="mailto:seuemail@exemplo.com">seuemail@exemplo.com</a></p>
+</footer>
         <div>
 </body>
 
