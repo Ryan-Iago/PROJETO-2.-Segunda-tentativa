@@ -59,9 +59,9 @@
         <h2>Entre em contato</h2>
         <div>
             <i class="bi bi-github"></i>
-            <a href="https://github.com/Ryan-Iago">GitHub</a>
+            <a href="https://github.com/Ryan-Iago">GitHub, para ver meus demais projetos</a>
             <footer>
-    <p>Contato: <a href="mailto: ryan.andre.prado@escola.pr.gov.br">ryan.andre.prado@escola.pr.gov.br</a></p>
+    <p>Contato (se necessário esclarecer dúvidas): <a href="mailto: ryan.andre.prado@escola.pr.gov.br">ryan.andre.prado@escola.pr.gov.br</a></p>
 </footer>
         <div>
 </body>
